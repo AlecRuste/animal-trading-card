@@ -1,0 +1,25 @@
+.card {
+    width: 350px;
+    border-style: solid;
+    border-color: #C0C0C0;
+    border-width: 1px;
+    padding: 5px;
+    box-shadow: 7px 7px 5px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card-content {
+    border-style: solid;
+    border-color: #C0C0C0;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.animalslistitems {
+    list-style: none;
+}
+
+.animalimage {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
